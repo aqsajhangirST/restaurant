@@ -1,0 +1,32 @@
+[
+  {
+    "id": "review-1",
+    "quote": "Best fusion food in F-6, hands down. Didn't expect the karahi and the steak to work on the same table, but they do.",
+    "occasion": "Weeknight dinner",
+    "rating": 5
+  },
+  {
+    "id": "review-2",
+    "quote": "The canopy alone is worth the visit. Then the food backs it up.",
+    "occasion": "Birthday dinner",
+    "rating": 5
+  },
+  {
+    "id": "review-3",
+    "quote": "Attentive service without the hovering. The Manchurian was the standout of the night.",
+    "occasion": "Anniversary dinner",
+    "rating": 4
+  },
+  {
+    "id": "review-4",
+    "quote": "A great spot for a long catch-up over plates that cross continents without feeling confused.",
+    "occasion": "Friends' dinner",
+    "rating": 5
+  },
+  {
+    "id": "review-5",
+    "quote": "Closed the meal with the shahi tukra — glad we saved room.",
+    "occasion": "Family dinner",
+    "rating": 4
+  }
+]

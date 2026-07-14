@@ -1,0 +1,186 @@
+{
+  "categories": [
+    {
+      "id": "traditional",
+      "name": "Traditional & BBQ",
+      "tagline": "Karahi, tikka, and naan straight off the coals.",
+      "items": [
+        {
+          "id": "chicken-karahi",
+          "name": "Chicken Karahi",
+          "image": "/images/food/chicken.jpg",
+          "description": "The house karahi — tomato, green chili, ginger, full-flavored.",
+          "price": "Rs 1,100 / 2,200"
+        },
+        {
+          "id": "bayroute-special-karahi",
+          "name": "Bayroute Special Chicken Karahi",
+          "image": "/images/food/chicken.jpg",
+          "description": "Our own blend, richer and spiced further than the classic — straight off the coals, still at a full boil.",
+          "price": "Rs 1,550 / 2,650",
+          "spotlight": true,
+          "hot": true
+        },
+        {
+          "id": "malai-boti",
+          "name": "Malai Boti",
+          "image": "/images/food/malai.jpg",
+          "description": "Cream-marinated chicken, charcoal-grilled.",
+          "price": "Rs 1,350"
+        },
+        {
+          "id": "beef-seekh-kabab",
+          "name": "Beef Seekh Kabab",
+          "image": "/images/food/beef.jpg",
+          "description": "Hand-shaped, char-grilled, served hot off the skewer.",
+          "price": "Rs 1,599"
+        }
+      ]
+    },
+    {
+      "id": "continental",
+      "name": "Continental",
+      "tagline": "Steaks, pastas, and a proper Caesar.",
+      "items": [
+        {
+          "id": "grilled-beef-steak",
+          "name": "Grilled Beef Steak",
+          "image": "/images/food/beef.jpg",
+          "description": "Choice of mushroom, tarragon, black pepper, or Moroccan sauce — seared hard, rested, still audibly sizzling on the plate.",
+          "price": "Rs 1,459",
+          "spotlight": true,
+          "hot": true
+        },
+        {
+          "id": "chicken-florentine",
+          "name": "Chicken Florentine",
+          "image": "/images/food/chicken.jpg",
+          "description": "Pan-seared chicken, a lighter continental plate.",
+          "price": "Rs 1,459"
+        },
+        {
+          "id": "fettuccine-alfredo",
+          "name": "Fettuccine Alfredo",
+          "image": "/images/food/pasta.jpg",
+          "description": "Classic cream sauce, done simply.",
+          "price": "Rs 1,399"
+        },
+        {
+          "id": "caesar-salad",
+          "name": "Grilled Chicken Caesar Salad",
+          "image": "/images/food/salad.jpg",
+          "description": "Grilled chicken, crisp romaine, house dressing.",
+          "price": "Rs 1,049"
+        }
+      ]
+    },
+    {
+      "id": "chinese",
+      "name": "Chinese",
+      "tagline": "Wok-fired — a different stop on the same route.",
+      "items": [
+        {
+          "id": "chicken-manchurian",
+          "name": "Chicken Manchurian", 
+          "image": "/images/food/beef.jpg",
+          "description": "Deep-fried chicken tossed in a sweet-savory sauce, straight out of a screaming-hot wok.",
+          "price": "Rs 1,375",
+          "spotlight": true,
+          "hot": true
+        },
+        {
+          "id": "kung-pao-chicken",
+          "name": "Kung Pao Chicken",
+          "image": "/images/food/beef.jpg",
+          "description": "Peanuts, chili, a proper wok char.",
+          "price": "Rs 1,375"
+        },
+        {
+          "id": "chow-mein",
+          "name": "Chicken Chow Mein",
+          "image": "/images/food/beef.jpg",
+          "description": "Stir-fried noodles, wok heat, simple and fast.",
+          "price": "Rs 1,150"
+        }
+      ]
+    },
+    {
+      "id": "burgers",
+      "name": "Burgers & Sandwiches",
+      "tagline": "For the table that wants something familiar.",
+      "items": [
+        {
+          "id": "club-house",
+          "name": "Club House Sandwich",
+          "image": "/images/food/beef.jpg",
+          "description": "Triple-decker, choice of brown, white, or focaccia.",
+          "price": "Rs 1,250"
+        },
+        {
+          "id": "tandoori-wrap",
+          "name": "Tandoori Chicken Wrap",
+          "image": "/images/food/beef.jpg",
+          "description": "Tandoori-spiced chicken, wrapped and grilled.",
+          "price": "Rs 875"
+        }
+      ]
+    },
+    {
+      "id": "desserts",
+      "name": "Desserts",
+      "tagline": "A slow finish to a long table.",
+      "items": [
+        {
+          "id": "shahi-tukra",
+          "name": "Shahi Tukra",
+          "image": "/images/food/sahi tukra.jpg",
+          "description": "Fried bread, condensed milk, a classic done properly — served cold, no rush to finish it.",
+          "price": "Rs 350",
+          "spotlight": true,
+          "hot": false
+        },
+        {
+          "id": "laziza-kheer",
+          "name": "Laziza Kheer",
+          "image": "/images/food/sahi tukra.jpg",
+          "description": "Slow-cooked rice pudding, cardamom, and nuts.",
+          "price": "Rs 399"
+        }
+      ]
+    }
+  ],
+  "platters": [
+    {
+      "id": "family-feast",
+      "name": "Family Feast",
+      "servings": "Serves 4",
+      "image": "/images/food/beef.jpg",
+      "description": "Half chicken handi, yakhni pullo, malai boti, chicken seekh kabab, naan, roti, grilled vegetables, assorted chutneys, 1.5L drink.",
+      "price": "Rs 4,999"
+    },
+    {
+      "id": "desi-duo",
+      "name": "Desi Duo Delight",
+      "servings": "Serves 2",
+      "image": "/images/food/beef.jpg",
+      "description": "Yakhni pullo, malai boti, tikka boti, chicken seekh kabab, naan, roti, assorted chutneys, two mocktails.",
+      "price": "Rs 2,850"
+    },
+    {
+      "id": "chinese-platter",
+      "name": "Chinese Platter",
+      "servings": "Serves 2",
+      "image": "/images/food/beef.jpg",
+      "description": "Two Chinese mains, wings, chicken strips, two mocktails.",
+      "price": "Rs 2,599"
+    },
+    {
+      "id": "continental-platter",
+      "name": "Continental Platter",
+      "servings": "Serves 2",
+      "image": "/images/food/beef.jpg",
+      "description": "Any two steaks, two frappes.",
+      "price": "Rs 2,999"
+    }
+  ]
+}

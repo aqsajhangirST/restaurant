@@ -1,0 +1,10 @@
+[
+  { "id": "canopy-entrance","src":"/images/restaurant/image1.jpeg", "caption": "The bloom canopy, from the entrance", "aspect": "tall" },
+  { "id": "canopy-below", "src":"/images/restaurant/image2.jpeg", "caption": "Beneath the canopy, looking up", "aspect": "tall" },
+  { "id": "plate-wall", "src":"/images/restaurant/image3.jpeg", "caption": "The plate wall", "aspect": "square" },
+  { "id": "corner-table", "src":"/images/restaurant/image4.jpeg", "caption": "Corner table, after dark", "aspect": "wide" },
+  { "id": "room-wide", "src":"/images/restaurant/image4.jpeg", "caption": "The room, in full", "aspect": "wide" },
+  { "id": "pendant-detail", "src":"/images/restaurant/image3.jpeg", "caption": "One bulb, close up", "aspect": "square" },
+  { "id": "signage", "src":"/images/restaurant/image2.jpeg", "caption": "The route in, from F-6", "aspect": "tall" },
+  { "id": "table-setting", "src":"/images/restaurant/image1.jpeg", "caption": "Set for two", "aspect": "square" }
+]

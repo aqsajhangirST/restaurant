@@ -1,0 +1,11 @@
+[
+  { "id": "post-1", "kind": "photo", "src":"/images/instagram/post1.jpeg", "caption": "Photo 1" },
+  { "id": "post-2", "kind": "reel", "src":"/images/instagram/vedio1.mp4", "caption": "Reel 1" },
+  { "id": "post-3", "kind": "photo", "src":"/images/instagram/post3.jpeg", "caption": "Photo 3" },
+  { "id": "post-4", "kind": "photo", "src":"/images/instagram/post5.jpeg", "caption": "Photo 4" },
+  { "id": "post-5", "kind": "reel", "src":"/images/instagram/vedio4.mp4", "caption": "Reel 5" },
+  { "id": "post-6", "kind": "photo", "src":"/images/instagram/post9.jpeg", "caption": "Photo 6" },
+  { "id": "post-7", "kind": "photo", "src":"/images/instagram/post7.jpeg", "caption": "Photo 7" },
+  { "id": "post-8", "kind": "reel", "src":"/images/instagram/vedio1.mp4", "caption": "Reel 8" },
+  { "id": "post-9", "kind": "reel", "src":"/images/instagram/vedio3.mp4", "caption": "Reel 9" }
+]
