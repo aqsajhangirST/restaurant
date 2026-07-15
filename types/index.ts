@@ -67,6 +67,7 @@ export interface ReviewData {
   rating: number;
 }
 
+import { StaticImport } from "next/dist/shared/lib/get-img-props";
 /** Scene 11's feed tiles. No image/caption/permalink fields — there's no
  *  real post content to reference yet, so every tile links out to the
  *  real @bayroute_f6 profile itself rather than a fabricated per-post
