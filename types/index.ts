@@ -73,12 +73,11 @@ import { StaticImport } from "next/dist/shared/lib/get-img-props";
  *  real @bayroute_f6 profile itself rather than a fabricated per-post
  *  permalink (see InstagramGrid's header comment). `kind` only changes
  *  which placeholder icon renders (camera vs. reel-play). */
-import { StaticImageData } from "next/image";
 
 export interface InstagramPostData {
   id: string;
   kind: "photo" | "reel";
-  src: string | StaticImageData;
+  src: string ;
   caption: string;
 }
 
