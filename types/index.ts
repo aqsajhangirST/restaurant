@@ -20,7 +20,7 @@ export type SceneName =
 export type PerformanceTier = "high" | "low" | "unknown";
 
 export interface MenuItemData {
-  image: string | StaticImport;
+  image: string;
   id: string;
   name: string;
   description: string;
